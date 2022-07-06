@@ -1,6 +1,6 @@
-# Async React Hook For Set and Get Local and Session Storage 
+# React Hook For Set and Get Local and Session Storage Asynchronously
 
-Custom React Hook For get and set Local and Session Storage
+Custom React Hook For get and set Local and Session Storage Asynchronously
 
 
 
