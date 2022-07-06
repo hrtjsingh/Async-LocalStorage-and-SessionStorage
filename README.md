@@ -7,9 +7,9 @@ Custom React Hook For get and set Local and Session Storage Asynchronously
 ## Usage
 
 ```python
-import LocalStore from '../LocalStore';
+import useLocalStore from '../useLocalStore';
 
-const {asyncLocalStorage,asyncSessionStorage}=LocalStore();
+const {asyncLocalStorage,asyncSessionStorage}=useLocalStore();
 
 async function getStoreage(){
     const sessionStorage= await asyncSessionStorage.getItem("key")
